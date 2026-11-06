@@ -5,7 +5,7 @@
   "description": "VKIS school website with private admissions and recruitment dashboard",
   "main": "server.js",
   "scripts": {"start": "node server.js"},
-  "engines": {"node": ">=20"},
+  "engines": {"node": ">=22"},
   "dependencies": {
     "better-sqlite3": "^11.8.1",
     "bcryptjs": "^2.4.3",
